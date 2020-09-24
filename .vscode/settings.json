@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "locale": "cpp",
+        "streambuf": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp"
+    }
+}

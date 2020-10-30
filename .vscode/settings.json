@@ -5,6 +5,8 @@
         "streambuf": "cpp",
         "*.tcc": "cpp",
         "iostream": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
     }
 }
